@@ -1,0 +1,24 @@
+_repo: Narrative-of-a-Private-Soldier-in-His-Majesty-s-92d-Regiment-of-Foot_66990
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Wardlaw, Ralph
+    gutenberg_agent_id: '54069'
+    url: http://www.gutenberg.org/2009/agents/54069
+creator:
+  author:
+    agent_name: Billany, George
+    gutenberg_agent_id: '54068'
+    url: http://www.gutenberg.org/2009/agents/54068
+description: ''
+gutenberg_issued: '2021-12-22'
+identifiers:
+  gutenberg: '66990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Narrative of a Private Soldier in His Majesty's 92d Regiment of Foot
+url: http://www.gutenberg.org/ebooks/66990
