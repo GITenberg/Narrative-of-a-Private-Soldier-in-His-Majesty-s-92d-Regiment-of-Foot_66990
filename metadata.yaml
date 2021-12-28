@@ -5,12 +5,17 @@ contributor:
     agent_name: Wardlaw, Ralph
     gutenberg_agent_id: '54069'
     url: http://www.gutenberg.org/2009/agents/54069
+covers:
+- cover_type: archival
+  image_path: 66990-h/images/cover.jpg
 creator:
   author:
     agent_name: Billany, George
     gutenberg_agent_id: '54068'
     url: http://www.gutenberg.org/2009/agents/54068
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66990#Narrative-of-a-Private-Soldier-in-His-Majesty-s-92d-Regiment-of-Foot
 gutenberg_issued: '2021-12-22'
 identifiers:
   gutenberg: '66990'
